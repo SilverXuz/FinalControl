@@ -1,0 +1,15 @@
+C:\Users\Silver\Desktop\final\fc\bin\Debug\net6.0\fc.exe
+C:\Users\Silver\Desktop\final\fc\bin\Debug\net6.0\fc.deps.json
+C:\Users\Silver\Desktop\final\fc\bin\Debug\net6.0\fc.runtimeconfig.json
+C:\Users\Silver\Desktop\final\fc\bin\Debug\net6.0\fc.dll
+C:\Users\Silver\Desktop\final\fc\bin\Debug\net6.0\fc.pdb
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.csproj.AssemblyReference.cache
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.AssemblyInfoInputs.cache
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.AssemblyInfo.cs
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.csproj.CoreCompileInputs.cache
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.dll
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\refint\fc.dll
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.pdb
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\fc.genruntimeconfig.cache
+C:\Users\Silver\Desktop\final\fc\obj\Debug\net6.0\ref\fc.dll
